@@ -1,0 +1,2 @@
+# NTPServerTimeGetter
+NTPサーバー時刻取得用のツールです
